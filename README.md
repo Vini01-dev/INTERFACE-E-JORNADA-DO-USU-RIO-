@@ -1,34 +1,109 @@
 # INTERFACE-E-JORNADA-DO-USU-RIO-
 PROJETO FIGMA 
 
-# 📱 Protótipo de App de Plano de Saúde
+# 💪 GymFit – Sistema de Academia 
 
-## 📝 Descrição do Projeto
-Este projeto consiste no desenvolvimento de um protótipo de interface no Figma para um aplicativo de plano de saúde.
+## 📌 Sobre o Projeto
 
-A proposta foi criar uma experiência simples, intuitiva e acessível para o usuário, simulando o funcionamento de um aplicativo real.
+O *GymFit* é um protótipo funcional desktop de média fidelidade, desenvolvido no Figma, com o objetivo de oferecer uma experiência intuitiva para alunos de academia acompanharem seus treinos, evolução física e plano ativo.
+
+O projeto foi criado com foco na organização da informação, clareza funcional e facilidade de navegação.
+
+---
 
 ## 🎯 Objetivo
-O principal objetivo do protótipo é permitir que o usuário realize o **agendamento de consultas com psicóloga** de forma rápida e prática, reduzindo burocracias e facilitando o acesso ao serviço.
 
-## ⚙️ Funcionalidades
-- Abertura do aplicativo
-- Navegação pela interface
-- Seleção de profissional (psicóloga)
-- Escolha de data e horário
-- Confirmação do agendamento
+Permitir que o aluno:
 
-## 🎨 Design e Usabilidade
-A interface foi pensada com foco em:
-- Facilidade de navegação
-- Organização clara das informações
-- Botões intuitivos
-- Fluxo simples até a finalização do agendamento
+- Acesse seus treinos de forma rápida  
+- Acompanhe sua evolução  
+- Visualize informações do plano  
 
-## 🛠️ Ferramenta Utilizada
-- Figma
+---
 
-## 📌 Observação
-Este projeto é um protótipo e não possui integração com banco de dados ou funcionalidades reais, sendo desenvolvido apenas para fins de estudo e demonstração de interface.
+## 👤 Público-alvo
 
-LINK PROTÓTIPO : https://www.figma.com/proto/IdtpI9tcTsdjam9mZNU5uT/EXERC%C3%8DCIO-1?node-id=0-1&t=pWip3hz3RFVJi1PJ-1
+Alunos de academia que desejam acompanhar seu desempenho e manter consistência nos treinos.
+
+---
+
+## 🧠 Conceitos Aplicados
+
+- Arquitetura da Informação  
+- Hierarquia Visual  
+- Organização de Dados Densos  
+- Clareza Funcional  
+- Flexibilidade de Navegação  
+- Experiência do Usuário (UX)  
+
+---
+
+## 🔀 Fluxo Principal
+
+### ✔ Caminho 1 (Tradicional)
+
+1. Acessar a aba *Treinos*  
+2. Selecionar o treino do dia  
+3. Visualizar exercícios  
+
+### ⚡ Caminho 2 (Rápido)
+
+1. Acessar o *Dashboard*  
+2. Clicar em *"Treino de hoje"*  
+3. Executar e finalizar o treino  
+
+---
+
+## 🖥️ Telas Desenvolvidas
+
+- Dashboard do aluno  
+- Tela de treinos  
+- Execução de treino  
+- Evolução  
+- Plano e pagamentos  
+- Histórico (linha do tempo de treinos)  
+
+---
+
+## 📊 Funcionalidades
+
+- Visualização do treino do dia  
+- Registro de exercícios realizados  
+- Exibição de dados como peso, frequência e desempenho  
+- Navegação simplificada e intuitiva  
+
+---
+
+## 🎨 Ferramenta Utilizada
+
+- Figma  
+
+---
+
+## 🧪 Teste de Usabilidade
+
+Foi proposto ao usuário o seguinte desafio:
+
+> “Acessar e finalizar o treino do dia”
+
+O teste teve como objetivo avaliar:
+
+- Facilidade de navegação  
+- Clareza das ações  
+- Tempo para execução da tarefa  
+
+---
+
+## 🏆 Considerações Finais
+
+O GymControl foi desenvolvido com foco na autonomia do usuário, oferecendo diferentes caminhos para a realização de tarefas e uma interface clara e organizada.
+
+O projeto busca simular um sistema real, equilibrando funcionalidade e experiência do usuário.
+
+---
+
+## 📎 Protótipo
+
+([link do Projeto GymFit](https://www.figma.com/proto/FZNnpxDVzUdk8Il6i820Hf/EXERC%C3%8DCIO-2?node-id=0-1&t=o05BtJlwkMcB8HQM-1))
+
+---
