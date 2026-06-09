@@ -40,7 +40,7 @@ O protótipo inclui as seguintes telas:
 
 ## 👥 Autor
 
-**Seu Nome** - [GitHub](https://github.com/seu-usuario)
+**Seu Nome** - [GitHub]([https://github.com/seu-usuario](https://github.com/Vini01-dev))
 
 ## 📄 Licença
 
