@@ -1,109 +1,51 @@
-# INTERFACE-E-JORNADA-DO-USU-RIO-
-PROJETO FIGMA 
+# 💳 NeoBank - Protótipo de Aplicativo Bancário
 
-# 💪 GymFit – Sistema de Academia 
+Um protótipo de aplicativo bancário moderno desenvolvido no Figma com design intuitivo e funcionalidades completas de gerenciamento financeiro.
 
-## 📌 Sobre o Projeto
 
-O *GymFit* é um protótipo funcional desktop de média fidelidade, desenvolvido no Figma, com o objetivo de oferecer uma experiência intuitiva para alunos de academia acompanharem seus treinos, evolução física e plano ativo.
+## 📋 Sobre
 
-O projeto foi criado com foco na organização da informação, clareza funcional e facilidade de navegação.
+NeoBank é um protótipo de interface para um aplicativo bancário digital que oferece uma experiência moderna e segura para gerenciamento de finanças pessoais. O projeto foi desenvolvido no Figma com foco em usabilidade e design limpo.
 
----
+## ✨ Funcionalidades
 
-## 🎯 Objetivo
+- 💰 **Dashboard Financeiro** - Visão completa do saldo e movimentações
+- 💳 **Gerenciamento de Cartões** - Múltiplos cartões com controle detalhado
+- 📊 **Análise de Gastos** - Gráficos e relatórios de despesas
+- 📱 **Transações** - Histórico completo e rastreamento de operações
+- 👤 **Perfil do Usuário** - Gerenciamento de dados pessoais
+- 🔔 **Notificações** - Alertas de transações e atualizações
+- 🌙 **Modo Escuro** - Interface adaptável
+- 💬 **Chat de Suporte** - Atendimento ao cliente integrado
 
-Permitir que o aluno:
+## 🎨 Design
 
-- Acesse seus treinos de forma rápida  
-- Acompanhe sua evolução  
-- Visualize informações do plano  
+- Paleta de cores em azul e branco
+- Interface limpa e minimalista
+- Navegação intuitiva
+- Design responsivo
+- Componentes modernos e consistentes
 
----
+## 📱 Telas do Protótipo
 
-## 👤 Público-alvo
+O protótipo inclui as seguintes telas:
 
-Alunos de academia que desejam acompanhar seu desempenho e manter consistência nos treinos.
+- Tela inicial com dashboard
+- Visão de cartões
+- Histórico de transações
+- Análise de gastos
+- Perfil do usuário
+- Chat de suporte
+- Telas de confirmação de operações
 
----
+## 👥 Autor
 
-## 🧠 Conceitos Aplicados
+**Seu Nome** - [GitHub](https://github.com/seu-usuario)
 
-- Arquitetura da Informação  
-- Hierarquia Visual  
-- Organização de Dados Densos  
-- Clareza Funcional  
-- Flexibilidade de Navegação  
-- Experiência do Usuário (UX)  
+## 📄 Licença
 
----
-
-## 🔀 Fluxo Principal
-
-### ✔ Caminho 1 (Tradicional)
-
-1. Acessar a aba *Treinos*  
-2. Selecionar o treino do dia  
-3. Visualizar exercícios  
-
-### ⚡ Caminho 2 (Rápido)
-
-1. Acessar o *Dashboard*  
-2. Clicar em *"Treino de hoje"*  
-3. Executar e finalizar o treino  
+Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## 🖥️ Telas Desenvolvidas
-
-- Dashboard do aluno  
-- Tela de treinos  
-- Execução de treino  
-- Evolução  
-- Plano e pagamentos  
-- Histórico (linha do tempo de treinos)  
-
----
-
-## 📊 Funcionalidades
-
-- Visualização do treino do dia  
-- Registro de exercícios realizados  
-- Exibição de dados como peso, frequência e desempenho  
-- Navegação simplificada e intuitiva  
-
----
-
-## 🎨 Ferramenta Utilizada
-
-- Figma  
-
----
-
-## 🧪 Teste de Usabilidade
-
-Foi proposto ao usuário o seguinte desafio:
-
-> “Acessar e finalizar o treino do dia”
-
-O teste teve como objetivo avaliar:
-
-- Facilidade de navegação  
-- Clareza das ações  
-- Tempo para execução da tarefa  
-
----
-
-## 🏆 Considerações Finais
-
-O GymControl foi desenvolvido com foco na autonomia do usuário, oferecendo diferentes caminhos para a realização de tarefas e uma interface clara e organizada.
-
-O projeto busca simular um sistema real, equilibrando funcionalidade e experiência do usuário.
-
----
-
-## 📎 Protótipo
-
-([link do Projeto GymFit](https://www.figma.com/proto/FZNnpxDVzUdk8Il6i820Hf/EXERC%C3%8DCIO-2?node-id=0-1&t=o05BtJlwkMcB8HQM-1))
-
----
+⭐ Se este projeto foi útil, deixe uma estrela!
